@@ -1,0 +1,8 @@
+{
+  "name": "Éclat Bijoux ",
+  "description": "Joaillerie de luxe située à Guéliz, Marrakech. Boutique e-commerce avec gestion de stock et paiement en DH.",
+  "requestFramePermissions": [
+    "camera",
+    "geolocation"
+  ]
+}
